@@ -33,13 +33,13 @@
           link="https://medium.com/spencerweekly"
         />
       </div>
-    </div>
+  
 
     <p id="substats-footer">
       * Follower statistics powered by:
       <a href="https://api.spencerwoo.com/substats">Substats</a>.
     </p>
-  </div>
+  
 </template>
 
 <script>

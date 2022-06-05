@@ -30,7 +30,7 @@
       <h2>Links and things I'm working on</h2>
       <ul>
         <li>
-          <a href="https://www.youtube.com/channel/UCK231EtrX0-zU0vLuaaDKCg" target="_blank" rel="noopener noreferrer">Treys Youtube Channel</a>)
+          <a href="https://www.youtube.com/channel/UCK231EtrX0-zU0vLuaaDKCg" target="_blank" rel="noopener noreferrer">Treys Youtube Channel</a>
           <li>
             <a href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer">My Code</a
             ></li>
