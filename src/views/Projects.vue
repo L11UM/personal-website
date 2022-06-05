@@ -1,11 +1,11 @@
 <template>
   <div class="container">
     <h1>Projects</h1>
-    <p>Projects I participated in and/or developed.</p>
+    <p>Things I've built</p>
 
     <GitHubCard
-      title="📟 Dev on Windows with WSL"
-      link="https://github.com/spencerwooo/dowww"
+      title="Professional Website made for Insurance Company"
+      link="https://github.com/L11um/energyinsure"
       :info="dowwwInfo"
       :loading="loading"
     >

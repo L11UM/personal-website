@@ -2,10 +2,10 @@
   <div class="container">
     <div id="name-container">
       <img id="avatar" src="./../assets/images/av.png" alt="avatar" />
-      <h1>Spencer Woo</h1>
+      <h1>Liam Thompson</h1>
     </div>
     <div class="title-desc-container">
-      <a id="github" href="https://github.com/spencerwooo" target="_blank" rel="noopener noreferrer"
+      <a id="github" href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/github.svg" />Developer</a
       >
       <span>/</span>
@@ -18,13 +18,12 @@
       >
     </div>
     <div class="article">
-      <h2>WHO AM I</h2>
+      <h2>Welcome</h2>
       <p>
-        I'm <i>Spencer Woo</i> with the ID <i>spencerwoo</i>. Some other variations:
-        <a href="https://twitter.com/realSpencerWoo" target="_blank" rel="noopener noreferrer">@realSpencerWoo</a> /
-        <a href="https://weibo.com/spencerwoo" target="_blank" rel="noopener noreferrer">@SpencerWoo</a> /
-        <a href="https://github.com/spencerwooo" target="_blank" rel="noopener noreferrer">@spencerwooo</a>. You may
-        know me from GitHub / Jike / SSPAI or other places. Yes, those are also me.
+        I'm <i>Liam</i> or
+        <a href="https://twitter.com/L3AWM" target="_blank" rel="noopener noreferrer">@L3AWM</a> /
+        <a href="https://weibo.com/spencerwoo" target="_blank" rel="noopener noreferrer">@liambthompson</a> /
+        <a href="https://github.com/l11um" target="_blank" rel="noopener noreferrer">@liium</a>. 
       </p>
 
       <h2>Academics</h2>
