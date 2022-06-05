@@ -10,8 +10,8 @@
       :loading="loading"
     >
       <p>
-        WSL development best practices. Available at:
-        <a href="https://dowww.spencerwoo.com/">Dev on Windows with WSL</a>.
+        Check it out here:
+        <a href="https://energyinsure.net">Energy Insure</a>.
       </p>
     </GitHubCard>
 
