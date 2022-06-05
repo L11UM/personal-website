@@ -24,27 +24,23 @@
         <a href="https://twitter.com/L3AWM" target="_blank" rel="noopener noreferrer">@L3AWM</a> /
         <a href="https://weibo.com/spencerwoo" target="_blank" rel="noopener noreferrer">@liambthompson</a> /
         <a href="https://github.com/l11um" target="_blank" rel="noopener noreferrer">@liium</a>. 
-        This site is a directory for my notes and creative work
+       <br> This site is a directory for my notes and creative work 
       </p>
 
       <h2>Links and things I'm working on</h2>
       <ul>
         <li>
           <a href="https://www.youtube.com/channel/UCK231EtrX0-zU0vLuaaDKCg" target="_blank" rel="noopener noreferrer">Treys Youtube Channel</a>)
-          <i
-            ><a
-              href="https://github.com/L11UM"
-              target="_blank"
-              rel="noopener noreferrer"
-              >My Code</a
-            ></i>
+          <li>
+            <a href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer">My Code</a
+            ></li>
         </li>
         <li>
-          🍭 BIT Alumni (🇨🇳
-          <a href="" target="_blank" rel="noopener noreferrer">35mm Photography</a
-          >), <i>BSc in CS</i>.
+          <a href="" target="_blank" rel="noopener noreferrer">35mm Photography</a> <i>Site coming soon..</i>
         </li>
-        <li>🔭 <b></b></li>
+        <li>
+          <a href="https://docs.google.com/document/d/195gGzkvd_VNd6eX9-eIUYu0k-QOsIBmIhp0RiAuIvkI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">My Resume</a>
+        </li>
       </ul>
 
       <h2>Devices</h2>
