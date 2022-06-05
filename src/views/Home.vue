@@ -24,13 +24,14 @@
         <a href="https://twitter.com/L3AWM" target="_blank" rel="noopener noreferrer">@L3AWM</a> /
         <a href="https://weibo.com/spencerwoo" target="_blank" rel="noopener noreferrer">@liambthompson</a> /
         <a href="https://github.com/l11um" target="_blank" rel="noopener noreferrer">@liium</a>. 
+        This site is a directory for my notes and creative work
       </p>
 
-      <h2>Academics</h2>
+      <h2>Links</h2>
       <ul>
         <li>
           🙇 Postgraduate student at UofG (🇬🇧
-          <a href="https://www.gla.ac.uk/" target="_blank" rel="noopener noreferrer">University of Glasgow</a>), 1/2021
+          <a href="https://www.youtube.com/channel/UCkuNzcTVPCYZZjQhpru92nQ" target="_blank" rel="noopener noreferrer">University of Glasgow</a>), 1/2021
           entry,
           <i
             ><a
@@ -73,11 +74,15 @@
       </p>
       <pre>curl https://keybase.io/spencerwoo/pgp_keys.asc | gpg --import</pre>
 
-      <h2>Contacts</h2>
+      <h2>Contact Me</h2>
       <ul>
         <li>
-          <b>Email：</b>
-          <a href="mailto:spencer.wushangbo@gmail.com">spencer.wushangbo#gmail.com</a><i> (Preferred)</i>
+          <b>Email:</b>
+          <a href="mailto:liambt20@gmail.com">liambt20#gmail.com</a><i> (Preferred)</i>
+        </li>
+        <li>
+          <b>Phone #</b>
+          480-828-1953
         </li>
       </ul>
     </div>
