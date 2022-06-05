@@ -72,21 +72,8 @@ export default {
     const githubAxios = this.axios.get(`${apiUrl}/?source=github&queryKey=L11UM`)
     
 
-    rssAxios.then(r => {
-      this.rss = { data: r.data.data.totalSubs, loading: false }
-    })
-    sspaiAxios.then(r => {
-      this.sspai = { data: r.data.data.totalSubs, loading: false }
-    })
-    jikeAxios.then(r => {
-      this.jike = { data: r.data.data.totalSubs, loading: false }
-    })
-    zhihuAxios.then(r => {
-      this.zhihu = { data: r.data.data.totalSubs, loading: false }
-    })
-    weiboAxios.then(r => {
-      this.weibo = { data: r.data.data.totalSubs, loading: false }
-    })
+    
+    
     twitterAxios.then(r => {
       this.twitter = { data: r.data.data.totalSubs, loading: false }
     })
@@ -95,12 +82,6 @@ export default {
     })
     githubAxios.then(r => {
       this.github = { data: r.data.data.totalSubs, loading: false }
-    })
-    steamGamesAxios.then(r => {
-      this.steamGames = { data: r.data.data.totalSubs, loading: false }
-    })
-    telegramAxios.then(r => {
-      this.telegram = { data: r.data.data.totalSubs, loading: false }
     })
   },
 }
