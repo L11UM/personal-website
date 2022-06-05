@@ -6,15 +6,15 @@
     </div>
     <div class="title-desc-container">
       <a id="github" href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer"
-        ><img class="title-font" src="./../assets/images/github.svg" />Developer</a
+        ><img class="title-font" src="./../assets/images/github.svg" />Develop</a
       >
       <span>/</span>
-      <a id="sspai" href="https://sspai.com/u/spencerwoo/posts" target="_blank" rel="noopener noreferrer"
-        ><img class="title-font" src="./../assets/images/sspai.svg" />Writer</a
+      <a id="sspai" href="https://medium.com/@liambt20" target="_blank" rel="noopener noreferrer"
+        ><img class="title-font" src="./../assets/images/sspai.svg" />Write</a
       >
       <span>/</span>
       <a id="blog" href="https://blog.spencerwoo.com" target="_blank" rel="noopener noreferrer"
-        ><img class="title-font" src="./../assets/images/zeit.svg" />Blogger</a
+        ><img class="title-font" src="./../assets/images/zeit.svg" />Art</a
       >
     </div>
     <div class="article">
@@ -22,7 +22,7 @@
       <p>
         I'm <i>Liam</i> or
         <a href="https://twitter.com/L3AWM" target="_blank" rel="noopener noreferrer">@L3AWM</a> /
-        <a href="https://weibo.com/spencerwoo" target="_blank" rel="noopener noreferrer">@liambthompson</a> /
+        <a href="https://www.instagram.com/liambthompson/" target="_blank" rel="noopener noreferrer">@liambthompson</a> /
         <a href="https://github.com/l11um" target="_blank" rel="noopener noreferrer">@liium</a>. 
        <br> This site is a directory for my notes and creative work 
       </p>
@@ -30,7 +30,7 @@
       <h2>Links and things I'm working on</h2>
       <ul>
         <li>
-          <a href="https://www.youtube.com/channel/UCK231EtrX0-zU0vLuaaDKCg" target="_blank" rel="noopener noreferrer">Treys Youtube Channel</a>
+          <a href="https://www.youtube.com/channel/UCK231EtrX0-zU0vLuaaDKCg" target="_blank" rel="noopener noreferrer">Trey's Youtube Channel</a>
           <li>
             <a href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer">My Code</a
             ></li>

@@ -9,7 +9,7 @@
     <div id="footer">
       <div id="footer-text">
         <p>
-          Built by liium with 
+          Built with 
           <a href="https://vuejs.org/">Vue.js</a>. Deployed on
           <a href="https://vercel.com/spencerwoo/home">Vercel</a> with APIs hosted on
           <a href="https://www.cloudflare.com/">Cloudflare</a>.
