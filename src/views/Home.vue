@@ -27,27 +27,24 @@
         This site is a directory for my notes and creative work
       </p>
 
-      <h2>Links</h2>
+      <h2>Links and things I'm working on</h2>
       <ul>
         <li>
-          🙇 Postgraduate student at UofG (🇬🇧
-          <a href="https://www.youtube.com/channel/UCkuNzcTVPCYZZjQhpru92nQ" target="_blank" rel="noopener noreferrer">University of Glasgow</a>), 1/2021
-          entry,
+          <a href="https://www.youtube.com/channel/UCK231EtrX0-zU0vLuaaDKCg" target="_blank" rel="noopener noreferrer">Treys Youtube Channel</a>)
           <i
             ><a
-              href="https://www.gla.ac.uk/postgraduate/taught/computingsciencemsc/"
+              href="https://github.com/L11UM"
               target="_blank"
               rel="noopener noreferrer"
-              >MSc in CS</a
-            ></i
-          >.
+              >My Code</a
+            ></i>
         </li>
         <li>
           🍭 BIT Alumni (🇨🇳
-          <a href="http://www.bit.edu.cn/" target="_blank" rel="noopener noreferrer">Beijing Institute of Technology</a
+          <a href="" target="_blank" rel="noopener noreferrer">35mm Photography</a
           >), <i>BSc in CS</i>.
         </li>
-        <li>🔭 <b>Fields of interest:</b> Adversarial examples / AI vulnerability.</li>
+        <li>🔭 <b></b></li>
       </ul>
 
       <h2>Devices</h2>
