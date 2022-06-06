@@ -51,9 +51,9 @@ export default {
   },
   data() {
     return {
-      twitter: { data: 0, loading: true },
-      medium: { data: 0, loading: true },
-      github: { data: 0, loading: true },
+      twitter: { data: 1, loading: true },
+      medium: { data: 1, loading: true },
+      github: { data: 1, loading: true },
     }
   },
   mounted() {
