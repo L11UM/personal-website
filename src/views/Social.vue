@@ -2,9 +2,7 @@
   <div class="container">
     <h1>Social</h1>
     <p>Some of my followers.</p>
-  </div>
-    
-      
+  </div>     
       <div class="row-container">
         <statCard
           statTitle="Twitter"
@@ -24,7 +22,7 @@
           :loading="github.loading"
           link="https://github.com/L11UM"
         />
-      </div>
+        </div>
       <div class="row-container">
         <statCard
           statTitle="Medium"
