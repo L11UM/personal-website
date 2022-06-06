@@ -48,11 +48,11 @@
 
       <h2>Setup</h2>
       <ul>
-        <li>⚫ Custom Built PC: <br>
-        AMD FX(tm)-8300 Eight-Core Processo</br>
-        <br>NVIDIA GTX 1050</br>
-        <br>MS970 MoBO</br>
-        </li>
+        <li>⚫ Custom Built PC:</li> <br>
+        <li>>AMD FX(tm)-8300 Eight-Core Processor</li></br>
+        <li><br>NVIDIA GTX 1050</li></br>
+        <li><br>MS970 MoBO</li></br>
+        
         <li>🔵 VSCode Configuration</li>
       </ul>
 
