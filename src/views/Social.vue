@@ -2,9 +2,9 @@
   <div class="container">
     <h1>Social</h1>
     <p>Some of my followers.</p>
-
+  </div>
     
-      </div>
+      
       <div class="row-container">
         <statCard
           statTitle="Twitter"
@@ -14,6 +14,8 @@
           :loading="twitter.loading"
           link="https://twitter.com/L3AWM"
         />
+        </div>
+        <div class="row-container">
         <statCard
           statTitle="GitHub"
           :followers="github.data"
@@ -30,7 +32,7 @@
           suffix="readers"
           icon="medium.png"
           :loading="medium.loading"
-          link="https://medium.com/spencerweekly"
+          link="https://medium.com/liambt20"
         />
       </div>
   
@@ -39,7 +41,7 @@
       * Follower statistics powered by:
       <a href="https://api.spencerwoo.com/substats">Substats</a>.
     </p>
-  
+
 </template>
 
 <script>
