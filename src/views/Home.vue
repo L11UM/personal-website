@@ -60,7 +60,7 @@
       <p>
         I offer web/UI devolpment services for low prices!</p>
       
-        <a href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer">You can take a look at some of my work here</a>
+        <a href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer">You can take a look at some of my work here</a> <br>
          <a href="https://cyberjjt.gumroad.com/l/bizweb" target="_blank" rel="noopener noreferrer">Gumroad Shop</a>
 
         <!--Contact-->
