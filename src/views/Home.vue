@@ -49,9 +49,9 @@
       <h2>Setup</h2>
       <ul>
         <li>⚫ Custom Built PC:</li> <br>
-        <li>>AMD FX(tm)-8300 Eight-Core Processor</li></br>
-        <li><br>NVIDIA GTX 1050</li></br>
-        <li><br>MS970 MoBO</li></br>
+        <li>>AMD FX(tm)-8300 Eight-Core Processor</li>
+        <li><br>NVIDIA GTX 1050</li>
+        <li><br>MS970 MoBO</li> 
         
         <li>🔵 VSCode Configuration</li>
       </ul>
@@ -59,8 +59,8 @@
       <h2>Freelance work:</h2>
       <p>
         I offer web/UI devolpment services for low prices!</p>
-      <p>
-        <a href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer"></a>You can take a look at some of my work here</a>
+      
+        <a href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer">You can take a look at some of my work here</a>
 
         <!--Contact-->
       <h2>Contact Me</h2>
