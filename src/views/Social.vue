@@ -68,13 +68,13 @@ export default {
     
     
     twitterAxios.then(r => {
-      this.twitter = { data: r.data.data.totalSubs, loading: false }
+      this.twitter = { data: r.data.data.totalSubs, loading: true }
     })
     mediumAxios.then(r => {
-      this.medium = { data: r.data.data.totalSubs, loading: false }
+      this.medium = { data: r.data.data.totalSubs, loading: true }
     })
     githubAxios.then(r => {
-      this.github = { data: r.data.data.totalSubs, loading: false }
+      this.github = { data: r.data.data.totalSubs, loading: true }
     })
   },
 }

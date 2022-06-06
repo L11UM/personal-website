@@ -41,9 +41,6 @@
     >
       <p>
         <b>The Fully Anonymous Teaching Evaluation System:</b> a project that won National 2nd Prize on the
-        <a href=">National College Student Information Security Contest</a>, based on OPAAK and CL
-        signatures. More on:
-        <a href="https://medium.com/spencerweekly/recap-on-fates-d9d17a6a7827">Medium - Recap on project FATES.</a>
       </p>
     </GitHubCard>
 
