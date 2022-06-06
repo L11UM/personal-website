@@ -61,7 +61,7 @@
         I offer web/UI devolpment services !</p>
       
         <a href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer">You can take a look at some of my work here</a> <br>
-         <a href="https://cyberjjt.gumroad.com/l/bizweb" target="_blank" rel="noopener noreferrer">Gumroad Shop</a>
+         <br><a href="https://cyberjjt.gumroad.com/l/bizweb" target="_blank" rel="noopener noreferrer">Gumroad Shop</a>
 
 
   
@@ -70,7 +70,7 @@
       <ul>
         <li>
           <b>Email:</b>
-          <a href="mailto:liambt20@gmail.com">liambt20#gmail.com</a><i> (Preferred)</i>
+          <a href="mailto:liambt20@gmail.com">liambt20@gmail.com</a><i> (Preferred)</i>
         </li>
         <li>
           <b>Phone #</b>
