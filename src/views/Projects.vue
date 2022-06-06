@@ -11,7 +11,7 @@
     >
       <p>
         Check it out here:
-        <a href="https://energyinsure.net">Energy Insure</a>.
+        <a href="https://l11um.github.io/energyinsure/">Energy Insure</a>.
       </p>
     </GitHubCard>
 
