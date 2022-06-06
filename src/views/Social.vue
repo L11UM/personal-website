@@ -51,16 +51,9 @@ export default {
   },
   data() {
     return {
-      rss: { data: 0, loading: true },
-      jike: { data: 0, loading: true },
-      sspai: { data: 0, loading: true },
-      zhihu: { data: 0, loading: true },
-      weibo: { data: 0, loading: true },
       twitter: { data: 0, loading: true },
       medium: { data: 0, loading: true },
       github: { data: 0, loading: true },
-      steamGames: { data: 0, loading: true },
-      telegram: { data: 0, loading: true },
     }
   },
   mounted() {
@@ -68,7 +61,7 @@ export default {
     const rssUrl = 'https://blog.spencerwoo.com/posts/index.xml'
 
     const twitterAxios = this.axios.get(`${apiUrl}/?source=twitter&queryKey=l3awm`)
-    const mediumAxios = this.axios.get(`${apiUrl}/?source=medium&queryKey=@SpencerWooo`)
+    const mediumAxios = this.axios.get(`${apiUrl}/?source=medium&queryKey=@Liambt20`)
     const githubAxios = this.axios.get(`${apiUrl}/?source=github&queryKey=L11UM`)
     
 
