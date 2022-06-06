@@ -46,30 +46,23 @@
         </li>
       </ul>
 
-      <h2>Devices</h2>
+      <h2>Setup</h2>
       <ul>
-        <li>⚫ ThinkPad X1 Carbon 7th Gen</li>
-        <li>🔵 iPhone 12 / iPad Air 3 / AirPods Pro</li>
+        <li>⚫ Custom Built PC: <br>
+        AMD FX(tm)-8300 Eight-Core Processo</br>
+        <br>NVIDIA GTX 1050</br>
+        <br>MS970 MoBO</br>
+        </li>
+        <li>🔵 VSCode Configuration</li>
       </ul>
 
-      <h2>How can we trust you!</h2>
+      <h2>Freelance work:</h2>
       <p>
-        I have verified my identity with a GPG signature which proves my ownership of this domain. (See the cryptography
-        proof here:
-        <a
-          href="http://keybase.io/spencerwoo/sigchain#abb6f40f8c804e7411e91544b7cdb8e011df8e6f84dcd0b709f848f85dc6248d0f"
-          target="_blank"
-          rel="noopener noreferrer"
-          >Keybase - claimed ownership of <b>spencerwoo.com</b> via dns</a
-        >.) In other words, <i>I AM LEGIT HERE.</i>
-      </p>
+        I offer web/UI devolpment services for low prices!</p>
       <p>
-        I have my GPG public key hosted on
-        <a href="http://keybase.io/spencerwoo" target="_blank" rel="noopener noreferrer">Keybase - spencerwoo</a>. You
-        can pull and import my GPG public key with:
-      </p>
-      <pre>curl https://keybase.io/spencerwoo/pgp_keys.asc | gpg --import</pre>
+        <a href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer"></a>You can take a look at some of my work here</a>
 
+        <!--Contact-->
       <h2>Contact Me</h2>
       <ul>
         <li>
@@ -84,7 +77,7 @@
     </div>
   </div>
 </template>
-
+    <!--CSS-->
 <style lang="css" scoped>
 #name-container {
   display: flex;
