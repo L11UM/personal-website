@@ -17,7 +17,7 @@
 
     <GitHubCard
       title="📈 Substats"
-      link="https://github.com/spencerwooo/Substats"
+      link=""
       :info="substatsInfo"
       :loading="loading"
     >
@@ -27,7 +27,7 @@
       </p>
     </GitHubCard>
 
-    <GitHubCard title="📖 BIThesis" link="https://github.com/BITNP/BIThesis" :info="bithesisInfo" :loading="loading">
+    <GitHubCard title="📖 BIThesis" link="" :info="bithesisInfo" :loading="loading">
       <p>
         LaTeX templates for your bachelor graduation thesis (and more) here at BIT.
       </p>
@@ -35,13 +35,13 @@
 
     <GitHubCard
       title="💡 FATES"
-      link="https://github.com/SecureCats/Evaluation_BackEnd"
+      link=""
       :info="fatesInfo"
       :loading="loading"
     >
       <p>
         <b>The Fully Anonymous Teaching Evaluation System:</b> a project that won National 2nd Prize on the
-        <a href="http://www.ciscn.cn/">National College Student Information Security Contest</a>, based on OPAAK and CL
+        <a href=">National College Student Information Security Contest</a>, based on OPAAK and CL
         signatures. More on:
         <a href="https://medium.com/spencerweekly/recap-on-fates-d9d17a6a7827">Medium - Recap on project FATES.</a>
       </p>
@@ -49,7 +49,7 @@
 
     <GitHubCard
       title="💻 My dotfiles"
-      link="https://github.com/spencerwooo/dotfiles"
+      link=""
       :info="dotfilesInfo"
       :loading="loading"
     >
