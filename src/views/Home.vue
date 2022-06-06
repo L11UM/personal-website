@@ -42,7 +42,7 @@
           <a href="https://www.twitch.tv/liambingus" target="_blank" rel="noopener noreferrer">Twitch</a>
         </li>
         <li>
-          <a href="https://docs.google.com/document/d/195gGzkvd_VNd6eX9-eIUYu0k-QOsIBmIhp0RiAuIvkI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">My Resume</a>
+          <a href="https://docs.google.com/document/d/195gGzkvd_VNd6eX9-eIUYu0k-QOsIBmIhp0RiAuIvkI/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><b>My Resume</b></a>
         </li>
       </ul>
 
