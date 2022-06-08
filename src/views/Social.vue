@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Social</h1>
     <p>Some of my followers.</p>
-  </div>     
+      
       <div class="row-container">
         <statCard
           statTitle="Twitter"
@@ -39,7 +39,7 @@
       * Follower statistics powered by:
       <a href="https://api.spencerwoo.com/substats">Substats</a>.
     </p>
-
+  </div>
 </template>
 
 <script>
