@@ -23,13 +23,13 @@
     >
       <p>
         Serverless function to count how many people are subscribed to you in your favorite services. Supporting Feedly,
-        Inoreader, GitHub, Twitter, Jike, Zhihu, and much more.
+       GitHub, Twitter, and much more.
       </p>
     </GitHubCard>
 
     <GitHubCard title="📖 BIThesis" link="" :info="bithesisInfo" :loading="loading">
       <p>
-        LaTeX templates for your bachelor graduation thesis (and more) here at BIT.
+    
       </p>
     </GitHubCard>
 
