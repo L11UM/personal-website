@@ -45,10 +45,10 @@
 
       <h2>Setup</h2>
       <ul>
-        <li><a href="#">⚫ Custom Built PC:</a></li>
+        <li><a href="#">""</a></li>
        
         
-        <li><a href="#">🔵 VSCode Configuration</a></li>
+        <li><a href="#">""🔵 VSCode Configuration""</a></li>
       </ul>
 
       <h2>Freelance work:</h2>
