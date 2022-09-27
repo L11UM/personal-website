@@ -13,7 +13,7 @@
         ><img class="title-font" src="./../assets/images/sspai.svg" />Write</a
       >
       <span>/</span>
-      <a id="blog" href="https://blog.spencerwoo.com" target="_blank" rel="noopener noreferrer"
+      <a id="blog" href="" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/zeit.svg" />Art</a
       >
     </div>
@@ -45,10 +45,10 @@
 
       <h2>Setup</h2>
       <ul>
-        <li><a href="#">⚫ Custom Built PC:</a></li>
+        <li><a href="#">""</a></li>
        
         
-        <li><a href="#">🔵 VSCode Configuration</a></li>
+        <li><a href="#">""🔵 VSCode Configuration""</a></li>
       </ul>
 
       <h2>Freelance work:</h2>
