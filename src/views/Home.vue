@@ -48,7 +48,7 @@
         <li><a href="#">""</a></li>
        
         
-        <li><a href="#">""🔵 VSCode Configuration""</a></li>
+        <li><a href="#">""</a></li>
       </ul>
 
       <h2>Freelance work:</h2>

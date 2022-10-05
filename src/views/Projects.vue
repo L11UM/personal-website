@@ -50,7 +50,7 @@
       :info="dotfilesInfo"
       :loading="loading"
     >
-      <p>I freaking can't believe it that this is my most starred project...</p>
+      <p>Project1</p>
     </GitHubCard>
   </div>
 </template>
