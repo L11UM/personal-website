@@ -35,7 +35,6 @@
 			</div><!-- end div .span-6 -->		
 	
 			<div class="span-12 last">
-				<p class="prepend-top append-0">Thank you for purchasing my theme. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form <a href="http://themeforest.net/user/MountainTheme?ref=MountainTheme">here</a>. Thanks so much!</p>
 			</div>
 		</div><!-- end div .borderTop -->
 		
@@ -54,35 +53,27 @@
 		<hr>
 		
 		<h3 id="htmlStructure"><strong>1) HTML Structure</strong> - <a href="#toc">top</a></h3>
-		<p>This theme is a fixed layout with two columns. All of the information within the main content area is nested within a div with an id of "primaryContent". The sidebar's (column #2) content is within a div with an id of "secondaryContent". The general template structure is the same throughout the template. Here is the general structure.</p>
 		
 		<img src="assets/images/htmlstructure.png" alt="HTML Structure" />
 		
-		<p>If you would like to edit the color, font, or style of any elements in one of these columns, you would do the following:</p>
-
+		
 <pre>	#primaryContent a {
 		color: #someColor;
 	} 
 </pre>
 
-		<p>If you find that your new style is not overriding, it is most likely because of a specificity problem. Scroll down in your CSS file and make sure that there isn't a similar style that has more weight.</p>
-
-		<p>I.E.</p>
+	
 
 <pre>	#wrap #primaryContent a {
 		color: #someColor;
 	}
 </pre>
 
-		<p>So, to ensure that your new styles are applied, make sure that they carry enough "weight" and that there isn't a style lower in the CSS file that is being applied after yours.</p> 
-
-		<hr>
+		
 
 		<h3 id="cssFiles"><strong>2) CSS Files and Structure</strong> - <a href="#toc">top</a></h3>
 
-		<p>I'm using two CSS files in this theme. The first one is a generic reset file. Many browser interpret the default behavior of html elements differently. By using a general reset CSS file, we can work round this. This file also contains some general styling, such as anchor tag colors, font-sizes, etc. Keep in mind, that these values might be overridden somewhere else in the file.</p> 
-
-		<p>The second file contains all of the specific stylings for the page. The file is separated into sections using:</p>  
+		
 
 <pre>	
 
@@ -137,10 +128,7 @@
 
 </pre>
 		
-		<p>If you would like to edit a specific section of the site, simply find the appropriate label in the CSS file, and then scroll down until you find the appropriate style that needs to be edited.</p> 
-
-		<p>Any images that are placed within the services section have 5px worth of padding and a light bluish background. If you would like to edit the display of these images, find the following section in the style sheet:</p>
-
+		
 <pre>	.logo  img {
 		change styles here:
 	}
@@ -151,9 +139,7 @@
 
 		<h3 id="portfolio"><strong>4) Portfolio</strong> - <a href="#toc">top</a></h3>
 		
-		<p>1. To change portfolio item, need to open file portfolio and find Portfolio item code</p>
- 
-		<p>This is code item </p>
+		
   		<p>                       &lt;!-- portfolio item 1 --&gt;<br/>                &lt;div class=&quot;cbp-item branding illustration design&quot;&gt;<br/>                    &lt;a href=&quot;portfolio-single-1.html&quot;&gt;<br/>                      &lt;div class=&quot;image-box&quot;&gt;<br/>                         &lt;img src=&quot;assets/images/glacierStyle/portfolio-item-1.jpg&quot; alt=&quot;&quot;&gt;<br/>                      &lt;/div&gt;<br/>                      &lt;div class=&quot;caption-box&quot;&gt;<br/>                       &lt;div class=&quot;caption-center-box&quot;&gt;<br/>                         &lt;div class=&quot;caption-body&quot;&gt;<br/>                            &lt;h2&gt;Cups&lt;/h2&gt;<br/>                         &lt;/div&gt;<br/>                        &lt;/div&gt;<br/>                      &lt;/div&gt;<br/>                    &lt;/a&gt;<br/>                &lt;/div&gt;<br/>                &lt;!-- /portfolio item 1 --&gt;</p>
 
 	<p>2. Filter works</p>
@@ -163,11 +149,7 @@
 
 		<h3 id="googlemap"><strong>5) Google Map</strong> - <a href="#toc">top</a></h3>
 		
-		<p>1. To change information in Google map you need to open main.js and find Google Map section coordinate variables and change the coordinates </p>
- 
-		<p>var latitude = -37.8602828,</p>
-  		<p>longitude = 145.079616, 9</p>
-		<hr>
+		
 
 	
 
@@ -177,29 +159,8 @@
 		<p>An email in the contact form in the file changes contact.php in folder php</p>
 		<p>variable $mail = mail("youremail@youremailaddress.com", $subject, $message</p>
 	
-		<hr>
-		
-		<h3 id="credits"><strong>8) Sources and Credits</strong> - <a href="#toc">top</a></h3>
-		
-		<p>I've used the following images, icons or other files as listed.
-		
-	<ul>			
-					<li><a href="https://github.com/bas2k/jquery.appear/" target="_blank">jQuery.appear</a></li>
-					<li><a href="http://letteringjs.com/" target="_blank">Lettering</a></li>
-					<li><a href="http://jschr.github.com/textillate" target="_blank">Textillate</a></li>
-					<li><a href="https://wowjs.uk/" target="_blank">WOW</a></li>
-					<li><a href="https://github.com/nk-o/jarallax" target="_blank">Jarallax</a></li>
-					<li><a href="https://cornel.bopp-art.com/lightcase/" target="_blank">Lightcase</a></li>
-					<li><a href="http://flexslider.woothemes.com/" target="_blank">FlexSlider</a></li>
-					<li><a href="https://imagesloaded.desandro.com/" target="_blank">imagesLoaded</a></li>
-					<li><a href="http://scriptpie.com/cubeportfolio/live-preview/" target="_blank">Cube Portfolio</a></li>
-					<li><a href="https://isotope.metafizzy.co" target="_blank">Isotope</a></li>
-					<li><a href="http://unsplash.com" target="_blank">Images from Unsplash</a></li>
-				</ul>
-		
-		<hr>
-		
-		<p>Once again, thank you so much for purchasing this theme. As I said at the beginning, I'd be glad to help you if you have any questions relating to this theme. No guarantees, but I'll do my best to assist. If you have a more general question relating to the themes on ThemeForest, you might consider visiting the forums and asking your question in the "Item Discussion" section.</p> 
+	
+	
 		
 		<p class="append-bottom alt large"><strong>MountainTheme</strong></p>
 		<p><a href="#toc">Go To Table of Contents</a></p>
